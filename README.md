@@ -1,5 +1,5 @@
 # SinglePageApp
-my info
-This is about my personal information
-added new line
+my info <br>
+This is about my personal information<br>
+added new line<br>
 added one more line
